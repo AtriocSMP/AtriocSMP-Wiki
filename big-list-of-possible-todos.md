@@ -5,7 +5,6 @@ icon: clipboard-list
 
 # Big List of Possible ToDos
 
-* Waystones
 * Emotecraft
 * Villagers
 * Music/Map tickets
