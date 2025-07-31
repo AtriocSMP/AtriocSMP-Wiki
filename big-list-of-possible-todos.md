@@ -21,7 +21,6 @@ icon: clipboard-list
 * /phantomisolation \[check|disable|enable]
 * Snowballs do knockback (waow)
 * Shops, discord commands for shops
-* Playtime rewards/nick guide
 * Variable view distance/simulation distance
 * Shulkers respawn in the end (enderman how)
 * Emotes in chat POGGIES
