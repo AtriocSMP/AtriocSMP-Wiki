@@ -7,7 +7,7 @@ icon: pen-ruler
 
 Category List:
 
-* Woodcutter
+* [Woodcutter](custom-recipes.md#woodcutter)
 * Non-Renewables
 * Other
 
@@ -16,10 +16,6 @@ Category List:
 ## Woodcutter:
 
 Various wood items can now be crafted through Stonecutter.
-
-
-
-### Logs:
 
 {% tabs fullWidth="true" %}
 {% tab title="Oak" %}
