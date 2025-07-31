@@ -1,5 +1,5 @@
 ---
-description: Commands to trust players to use your containers/blocks
+description: Commands to allow players to use your containers/blocks
 icon: bolt
 ---
 
