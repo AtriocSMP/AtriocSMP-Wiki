@@ -19,7 +19,7 @@ Spawn Shops
 <mark style="color:$info;">This is an admin shop for sponge and sand, it never runs out. Sand is 0.50 Glumbo each and sponges are 100 Glumbo Each</mark>\
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,4 +29,4 @@ Spawn Shops
 
 <mark style="color:$info;">Swift Sneak 3 enchant book is sold here for 7,500 glumbo</mark>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

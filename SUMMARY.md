@@ -2,6 +2,7 @@
 
 * [AtriocSMP Wiki](README.md)
 * [Bolt Commands (Trust)](bolt-commands-trust.md)
+* [Waystones (warping)](waystones-warping.md)
 * [Spawn Info](spawn-info.md)
 * [Mob Heads](mob-heads.md)
 * [Custom Recipes](custom-recipes.md)
