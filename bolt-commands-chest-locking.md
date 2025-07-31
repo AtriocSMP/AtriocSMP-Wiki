@@ -1,30 +1,30 @@
 ---
-description: Commands to trust players to use your contriners/blocks
+description: Commands to trust players to use your containers/blocks
 icon: bolt
 ---
 
-# Bolt Commands (Trust)
+# Bolt Commands (Chest Locking)
 
-full bolt wiki\
+Full Bolt Wiki:\
 [<mark style="color:blue;">https://github.com/pop4959/Bolt/wiki</mark>](https://github.com/pop4959/Bolt/wiki)
 
 <mark style="color:yellow;">/bolt modify add normal player (Username)</mark>\
-Gives a player trust to access a container/block
+Gives a player access to a container/block
 
 <mark style="color:yellow;">/bolt modify add normal group (Group name)</mark>\
-Gives a group trust to access a container/block\
+Gives a group access a container/block\
 \
 <mark style="color:yellow;">/bolt modify remove normal player (Username)</mark>\
-Removes a players trust to a container/block
+Removes a players access to a container/block
 
 <mark style="color:yellow;">/bolt modify remove normal group (Group name)</mark>\
-Removes a group trust to access a container/block
+Removes a group access to a container/block
 
 <mark style="color:yellow;">/bolt group create (Group name)</mark>\
-Creates a group for you to add members to for trust
+Creates an access group
 
 <mark style="color:yellow;">/bolt group delete (Group name)</mark>\
-Deletes a group that you have made
+Deletes an access group
 
 <mark style="color:yellow;">/bolt group add (Group Name) (Username)</mark>\
 Adds a player to your group
@@ -33,31 +33,31 @@ Adds a player to your group
 Removes a player from your group
 
 <mark style="color:yellow;">/bolt trust add player (Username)</mark>\
-gives blanket trust of all your blocks/containers to a player
+gives blanket access to all your containers/blocks to a player
 
 <mark style="color:yellow;">/bolt trust add group (Group Name)</mark>\
-gives blanket trust of all your blocks/containers to a group
+gives blanket access to all your containers/blocks to a group
 
 <mark style="color:yellow;">/bolt trust remove player (Username)</mark>\
-removes blanket trust of all your blocks/containers to a player
+removes blanket access to all your containers/blocks from a player
 
 <mark style="color:yellow;">/bolt trust remove group (Group Name)</mark>\
-removes blanket trust of all your blocks/containers to a group
+removes blanket access to all your containers/blocks from a group
 
 <mark style="color:yellow;">/bolt lock deposit</mark>\
-locks a block only allowing players to put items in not take out
+locks a block, only allowing players to put items in, not take them out
 
 <mark style="color:yellow;">/bolt lock withdraw</mark>\
-locks a block only allowing players to take out items not put in
+locks a block, only allowing players to take out items, not put them in
 
 <mark style="color:yellow;">/bolt lock display</mark>\
-locks a block only players to only view contents not edit them
+locks a block, only allowing players to view contents, not edit them
 
 <mark style="color:yellow;">/bolt lock</mark>\
-locks a block so other players cant break or access it
+locks a block so other players can't break or access it
 
 <mark style="color:yellow;">/bolt unlock</mark>\
-unocks a block so other players can break or access it
+unlocks a block so other players can break or access it
 
 
 

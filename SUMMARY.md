@@ -1,7 +1,7 @@
 # Table of contents
 
 * [AtriocSMP Wiki](README.md)
-* [Bolt Commands (Trust)](bolt-commands-trust.md)
+* [Bolt Commands (Chest Locking)](bolt-commands-chest-locking.md)
 * [Waystones (warping)](waystones-warping.md)
 * [Commands & Tips](commands-and-tips.md)
 * [Spawn Info](spawn-info.md)
