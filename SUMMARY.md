@@ -6,4 +6,5 @@
 * [Spawn Info](spawn-info.md)
 * [Mob Heads](mob-heads.md)
 * [Custom Recipes](custom-recipes.md)
+* [Username Colors](username-colors.md)
 * [Big List of Possible ToDos](big-list-of-possible-todos.md)
