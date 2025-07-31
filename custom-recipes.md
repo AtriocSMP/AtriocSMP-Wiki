@@ -5,10 +5,15 @@ icon: pen-ruler
 
 # Custom Recipes
 
+Any recipe can be looked at in game by using <mark style="color:purple;">**/recipe**</mark>
+
 Category List:
 
 * [Woodcutter](custom-recipes.md#woodcutter)
-* Non-Renewables
+* [Non-Renewables](custom-recipes.md#non-renewables)
+* [Custom Horns](custom-recipes.md#custom-horns)
+* Custom Trims
+* Custom Paintings
 * Other
 
 
@@ -17,7 +22,7 @@ Category List:
 
 Various wood items can now be crafted through Stonecutter.
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="Oak" %}
 <div><figure><img src=".gitbook/assets/oak_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oak_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oak_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
@@ -66,3 +71,52 @@ Various wood items can now be crafted through Stonecutter.
 <div><figure><img src=".gitbook/assets/warped_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/warped_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/warped_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
+
+## Non-Renewables:
+
+Recipes that were added to bring a way for players to be able to obtain items which were limited indefinitely.
+
+
+
+{% tabs %}
+{% tab title="Horse Armors" %}
+<div><figure><img src=".gitbook/assets/iron_horse.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/gold_horse.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/diamond_horse.png" alt=""><figcaption></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Corals" %}
+<div><figure><img src=".gitbook/assets/blue_coral.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/pink_coral.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/purple_coral.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/red_coral.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/yellow_coral.png" alt=""><figcaption></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Cobweb" %}
+<figure><img src=".gitbook/assets/cobweb.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Lily Pad" %}
+<figure><img src=".gitbook/assets/lilypad.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Dripleaf" %}
+<figure><img src=".gitbook/assets/dripleaf.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Unwrite" %}
+<figure><img src=".gitbook/assets/written_book.png" alt=""><figcaption><p>*The Book &#x26; Quill will not keep the text from the written book, used in the recipe*</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Elytra" %}
+<figure><img src=".gitbook/assets/elytra.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+## Custom Horns:
+
+Recipes which bring new life to the horns by adding the ability to craft horns with new sounds.
+
+**Recipe Example:**
+
+<div align="left"><figure><img src=".gitbook/assets/horn1.png" alt=""><figcaption></figcaption></figure></div>
+
+For more details on the Custom Horns, look into [Custom Horns](custom-horns.md)
+
+Other:
+

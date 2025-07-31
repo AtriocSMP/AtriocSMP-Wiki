@@ -7,4 +7,5 @@
 * [Mob Heads](mob-heads.md)
 * [Custom Recipes](custom-recipes.md)
 * [Username Colors](username-colors.md)
+* [Custom Horns](custom-horns.md)
 * [Big List of Possible ToDos](big-list-of-possible-todos.md)
