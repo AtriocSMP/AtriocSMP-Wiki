@@ -24,3 +24,9 @@ Clicking the spyglass in the bottom middle will bring up a search option just ty
 ### Obtaining a waystone
 
 You can get your first waystone for the price of 5,000 glumbo by doing <mark style="color:purple;">/kit firstwaystone</mark> any waystone after this must be [purchased at spawn. ](spawn-info.md)
+
+You can rename your waystone by doing <mark style="color:purple;">/waystone rename (name)</mark>\
+you can also color the name of your waystone [info here](username-colors.md)\
+\
+If you are in your own waystone you can click your player head in top right to change your waystone icon, the block your waystone is made out of and the particles your waystone gives off
+
