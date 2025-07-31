@@ -59,14 +59,14 @@ Various wood items can now be crafted through Stonecutter.
 {% endtab %}
 
 {% tab title="Bamboo" %}
-<div><figure><img src=".gitbook/assets/bamboo_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/bamboo_wood.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/bamboo_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/bamboo_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/bamboo_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Crimson" %}
-<div><figure><img src=".gitbook/assets/crimson_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/crimson_wood.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/crimson_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/crimson_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/crimson_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Warped" %}
-<div><figure><img src=".gitbook/assets/warped_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/warped_wood.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/warped_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/warped_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/warped_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
