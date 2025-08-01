@@ -1,5 +1,6 @@
 ---
 description: All Custom Paintings for the AtriocSMP can be found here
+icon: paint-roller
 ---
 
 # Custom Paintings
@@ -16,12 +17,7 @@ A bunch of new painting related to the community have been added to the pool of 
 
 <summary>DDay Skeleton</summary>
 
-|        Name        | Size |                Image                |
-| :----------------: | :--: | :---------------------------------: |
-|  Chuck's Ultimatum |  1x1 |    ![](.gitbook/assets/chuck.png)   |
-|       Slinky       |  2x1 |   ![](.gitbook/assets/slinky.png)   |
-|    Sly's Revenge   |  2x1 | ![](.gitbook/assets/slinky_sly.png) |
-| Violent Overgrowth |  3x3 |  ![](.gitbook/assets/vi_skull.png)  |
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center">Name</th><th align="center">Size</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:yellow;"><strong>Chuck's Ultimatum</strong></mark></td><td align="center">1x1</td><td><a href=".gitbook/assets/chuck.png">chuck.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>Slinky</strong></mark></td><td align="center">2x1</td><td><a href=".gitbook/assets/slinky.png">slinky.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>Sly's Revenge</strong></mark></td><td align="center">2x1</td><td><a href=".gitbook/assets/slinky_sly.png">slinky_sly.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>Violent Overgrowth</strong></mark></td><td align="center">3x3</td><td><a href=".gitbook/assets/vi_skull.png">vi_skull.png</a></td></tr></tbody></table>
 
 </details>
 
@@ -29,12 +25,7 @@ A bunch of new painting related to the community have been added to the pool of 
 
 <summary>Ben Cactux</summary>
 
-|             Name            | Size |                  Image                 |
-| :-------------------------: | :--: | :------------------------------------: |
-|          I’m Cubic          |  2x2 |    ![](.gitbook/assets/im_cubic.png)   |
-|       The Last Supper       |  1x5 |  ![](.gitbook/assets/last_supper.png)  |
-| Did We Just Save Christmas? |  2x3 |    ![](.gitbook/assets/red_one.png)    |
-|      The Vitruvian Kev      |  2x2 | ![](.gitbook/assets/vitruvian_kev.png) |
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center">Name</th><th align="center">Size</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:yellow;"><strong>I’m Cubic</strong></mark></td><td align="center">2x2</td><td><a href=".gitbook/assets/im_cubic.png">im_cubic.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>The Last Supper</strong></mark></td><td align="center">1x5</td><td><a href=".gitbook/assets/last_supper.png">last_supper.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>Did We Just Save Christmas?</strong></mark></td><td align="center">2x3</td><td><a href=".gitbook/assets/red_one.png">red_one.png</a></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>The Vitruvian Kev</strong></mark></td><td align="center">2x2</td><td><a href=".gitbook/assets/vitruvian_kev.png">vitruvian_kev.png</a></td></tr></tbody></table>
 
 </details>
 
@@ -42,8 +33,6 @@ A bunch of new painting related to the community have been added to the pool of 
 
 <summary>Frodo Tim Baku</summary>
 
-|   Name   | Size |                  Image                  |
-| :------: | :--: | :-------------------------------------: |
-| Holy Duo |  4x3 | ![](.gitbook/assets/chicken_jockey.png) |
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center">Name</th><th align="center">Size</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><mark style="color:yellow;"><strong>Holy Duo</strong></mark></td><td align="center">4x3</td><td><a href=".gitbook/assets/chicken_jockey.png">chicken_jockey.png</a></td></tr></tbody></table>
 
 </details>
