@@ -7,15 +7,6 @@ icon: pen-ruler
 
 Any recipe can be looked at in game by using <mark style="color:purple;">**/recipe**</mark>
 
-Category List:
-
-* [Woodcutter](custom-recipes.md#woodcutter)
-* [Non-Renewables](custom-recipes.md#non-renewables)
-* [Custom Horns](custom-recipes.md#custom-horns)
-* Custom Trims
-* Custom Paintings
-* Other
-
 
 
 ## Woodcutter:
@@ -99,10 +90,6 @@ Recipes that were added to bring a way for players to be able to obtain items wh
 <figure><img src=".gitbook/assets/dripleaf.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Unwrite" %}
-<figure><img src=".gitbook/assets/written_book.png" alt=""><figcaption><p>*The Book &#x26; Quill will not keep the text from the written book, used in the recipe*</p></figcaption></figure>
-{% endtab %}
-
 {% tab title="Elytra" %}
 <figure><img src=".gitbook/assets/elytra.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -118,5 +105,25 @@ Recipes which bring new life to the horns by adding the ability to craft horns w
 
 For more details on the Custom Horns, look into [Custom Horns](custom-horns.md)
 
-Other:
+
+
+## Custom Trims:
+
+\*work in progress\*
+
+
+
+## Other:
+
+Other custom recipes on the AtriocSMP
+
+{% tabs %}
+{% tab title="Un-Write" %}
+<figure><img src=".gitbook/assets/written_book.png" alt=""><figcaption><p>*The Book &#x26; Quill will not keep the text from the written book, used in the recipe*</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Trans Star" %}
+<figure><img src=".gitbook/assets/trans_star.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
