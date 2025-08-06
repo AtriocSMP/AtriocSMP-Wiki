@@ -6,6 +6,7 @@
 * [Commands & Tips](commands-and-tips.md)
 * [Spawn Info](spawn-info.md)
 * [Mob Heads](mob-heads.md)
+* [Piglin Bartering](piglin-bartering.md)
 * [Custom Recipes](custom-recipes.md)
 * [Custom Horns](custom-horns.md)
 * [Custom Paintings](custom-paintings.md)
