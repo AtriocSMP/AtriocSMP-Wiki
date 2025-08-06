@@ -10,5 +10,6 @@
 * [Custom Recipes](custom-recipes.md)
 * [Custom Horns](custom-horns.md)
 * [Custom Paintings](custom-paintings.md)
+* [Custom Trims](custom-trims.md)
 * [Username Colors](username-colors.md)
 * [Big List of Possible ToDos](big-list-of-possible-todos.md)
