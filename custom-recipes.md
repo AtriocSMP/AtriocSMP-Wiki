@@ -13,7 +13,7 @@ Any recipe can be looked at in game by using <mark style="color:purple;">**/reci
 
 Various wood items can now be crafted through Stonecutter.
 
-{% tabs fullWidth="false" %}
+{% tabs fullWidth="true" %}
 {% tab title="Oak" %}
 <div><figure><img src=".gitbook/assets/oak_log.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oak_wood.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oak_planks.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
@@ -109,9 +109,11 @@ For more details on the Custom Horns, look into [Custom Horns](custom-horns.md)
 
 ## Custom Trims:
 
-\*work in progress\*
+Trans Star Recipe which is used as a brand new material option for the Trims.
 
+<figure><img src=".gitbook/assets/trans_star.png" alt=""><figcaption></figcaption></figure>
 
+To learn more about the trims visit page about [Custom Trims](custom-trims.md)
 
 ## Other:
 
@@ -122,8 +124,8 @@ Other custom recipes on the AtriocSMP
 <figure><img src=".gitbook/assets/written_book.png" alt=""><figcaption><p>*The Book &#x26; Quill will not keep the text from the written book, used in the recipe*</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="Trans Star" %}
-<figure><img src=".gitbook/assets/trans_star.png" alt=""><figcaption></figcaption></figure>
+{% tab title="Enchantment Extractor" %}
+<figure><img src=".gitbook/assets/enchantment_extractor.png" alt=""><figcaption><p>*Drag onto an enchanted item to remove 1 random enchantment from it, consumed on use*</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

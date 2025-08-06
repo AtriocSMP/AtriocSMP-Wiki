@@ -15,8 +15,6 @@ icon: clipboard-list
   * /sethome
 * Graves
   * /graves list
-* ExtractableEnchantments
-  * How to craft, what they do (random enchant)
 * Farms (FarmLimiter)
   * Where did all my mobs go, nametag bypass
 * Sitting/Crawling
