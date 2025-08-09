@@ -26,10 +26,10 @@ Resource pack
 #### How to Install the Tester Pack:
 
 First place the Resource pack (asmp\_trims\_resources.zip) into:\
-C:\Users\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**PC Name**</mark>_<mark style="color:$success;">"</mark>\AppData\Roaming.minecraft\resourcepacks
+C:\Users\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**PC Name**</mark>_<mark style="color:$success;">"</mark>\AppData\Roaming\\.minecraft\resourcepacks
 
 Secondly place the Datapack (asmo\_trims.zip) into:\
-C:\Users\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**PC Name**</mark>_<mark style="color:$success;">"</mark>\AppData\Roaming.minecraft\saves\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**World Name**</mark>_<mark style="color:$success;">"</mark>\datapacks
+C:\Users\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**PC Name**</mark>_<mark style="color:$success;">"</mark>\AppData\Roaming\\.minecraft\saves\\<mark style="color:$success;">"</mark>_<mark style="color:$success;">**World Name**</mark>_<mark style="color:$success;">"</mark>\datapacks
 
 After than you just need to restart your world  and choose the resource pack in your settings.\
 The pack should then be working.
@@ -50,7 +50,7 @@ _<mark style="color:$danger;">**\*Disclaimer\***</mark>**&#x20;****- For Spyglas
 
 {% tabs %}
 {% tab title="Spyglass" %}
-<div><figure><img src=".gitbook/assets/trim_mace_crafting.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/trim_spyglass.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/trim_spyglass_crafting.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/trim_spyglass.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Trident" %}
