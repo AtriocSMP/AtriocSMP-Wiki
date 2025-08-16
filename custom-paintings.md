@@ -7,7 +7,7 @@ icon: paint-roller
 
 A bunch of new painting related to the community have been added to the pool of possible paintings. Due to the pool of painting bringing additional rng element, you can use the Stonecutter to choose which painting you want without any rng element:
 
-<figure><img src=".gitbook/assets/painting_cut.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/paint cut icons.png" alt=""><figcaption></figcaption></figure>
 
 
 
