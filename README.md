@@ -8,7 +8,7 @@
 
 &#x20; The AtriocSMP is the official vanilla+ server of youtuber and streamer Atrioc.
 
-<p align="center"></p>
+<figure><img src=".gitbook/assets/2025-08-19_02.57.55.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
