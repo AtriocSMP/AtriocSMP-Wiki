@@ -5,8 +5,9 @@ icon: bolt
 
 # Bolt Commands (Chest Locking)
 
-Full Bolt Wiki:\
-[<mark style="color:blue;">https://github.com/pop4959/Bolt/wiki</mark>](https://github.com/pop4959/Bolt/wiki)
+Full Bolt Wiki:
+
+{% embed url="https://github.com/pop4959/Bolt/wiki" %}
 
 <mark style="color:yellow;">/bolt lock</mark>\
 locks a block so other players can't break or access it
