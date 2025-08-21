@@ -71,6 +71,12 @@ Works with all versions of the copper block.
 
 <div><figure><img src=".gitbook/assets/unoxidized_cut.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oxidized_cut.png" alt=""><figcaption></figcaption></figure></div>
 
+You can now place painting into the stonecutter to obtain any painting you want to get around the randomness of painting placement.
+
+<figure><img src=".gitbook/assets/paint cut icons.png" alt=""><figcaption></figcaption></figure>
+
+To learn more about custom paintings, visit page about [Custom Paintings](custom-paintings.md)&#x20;
+
 ## Non-Renewables:
 
 Recipes that were added to bring a way for players to be able to obtain items which were limited indefinitely.
@@ -119,7 +125,7 @@ Recipes which bring new life to the horns by adding the ability to craft horns w
 
 <div align="center"><figure><img src=".gitbook/assets/horn1.png" alt=""><figcaption></figcaption></figure></div>
 
-For more details on the Custom Horns, look into [Custom Horns](custom-horns.md)
+For more details on the Custom Horns, visit page about [Custom Horns](custom-horns.md)
 
 
 
@@ -129,7 +135,7 @@ Trans Star Recipe which is used as a brand new material option for the Trims.
 
 <figure><img src=".gitbook/assets/trans_star.png" alt=""><figcaption></figcaption></figure>
 
-To learn more about the trims visit page about [Custom Trims](custom-trims.md)
+To learn more about the trims, visit page about [Custom Trims](custom-trims.md)
 
 ## Other:
 
