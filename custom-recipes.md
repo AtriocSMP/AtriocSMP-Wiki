@@ -63,6 +63,14 @@ Various wood items can now be crafted through Stonecutter.
 {% endtab %}
 {% endtabs %}
 
+## Other Stonecutter changes:
+
+Additions to the copper block recipes in stonecutter have been expanded to include doors and trapdoors.
+
+Works with all versions of the copper block.
+
+<div><figure><img src=".gitbook/assets/unoxidized_cut.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/oxidized_cut.png" alt=""><figcaption></figcaption></figure></div>
+
 ## Non-Renewables:
 
 Recipes that were added to bring a way for players to be able to obtain items which were limited indefinitely.
@@ -93,6 +101,14 @@ Recipes that were added to bring a way for players to be able to obtain items wh
 {% tab title="Elytra" %}
 <figure><img src=".gitbook/assets/elytra.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="Gilded Blackstone" %}
+<figure><img src=".gitbook/assets/gilded_blackstone.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Spore Blossom" %}
+<figure><img src=".gitbook/assets/spore_blossom.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 {% endtabs %}
 
 ## Custom Horns:
@@ -101,7 +117,7 @@ Recipes which bring new life to the horns by adding the ability to craft horns w
 
 **Recipe Example:**
 
-<div align="left"><figure><img src=".gitbook/assets/horn1.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/horn1.png" alt=""><figcaption></figcaption></figure></div>
 
 For more details on the Custom Horns, look into [Custom Horns](custom-horns.md)
 
