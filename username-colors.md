@@ -28,6 +28,6 @@ You can also use these color when typing in chat or naming your waystone use the
 
 Example Command
 
-<mark style="color:$success;">/nick &4Cray\&dola\&fEater\&b27</mark>
+<mark style="color:$success;">/nick</mark> <mark style="color:purple;">&4</mark><mark style="color:$success;">Cray</mark><mark style="color:purple;">\&d</mark><mark style="color:$success;">ola</mark><mark style="color:purple;">\&f</mark><mark style="color:$success;">Eater</mark><mark style="color:purple;">\&b</mark><mark style="color:$success;">27</mark>
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
