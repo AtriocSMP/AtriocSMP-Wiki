@@ -26,3 +26,8 @@ You can also use these color when typing in chat or naming your waystone use the
 
 <figure><img src=".gitbook/assets/colorcodes.png" alt=""><figcaption></figcaption></figure>
 
+Example Command
+
+<mark style="color:$success;">/nick &4Cray\&dola\&fEater\&b27</mark>
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
