@@ -5,6 +5,10 @@ icon: clipboard-list
 
 # Big List of Possible ToDos
 
+To contribute to the wiki dm Jester Man on discord
+
+
+
 * Emotecraft&#x20;
   * How to make custom emotes?
 * Villagers

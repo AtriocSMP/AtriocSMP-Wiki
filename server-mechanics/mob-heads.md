@@ -1,7 +1,7 @@
 ---
 description: List of all the mob heads obtainable on the AtriocSMP
 icon: face-explode
-cover: .gitbook/assets/wool.png
+cover: ../.gitbook/assets/wool.png
 coverY: 0
 ---
 
@@ -11,7 +11,7 @@ There is a total of 245 collectible heads.
 
 If you willing to take up the challenge of collecting all of them, here is a spreadsheet to track your progress:
 
-{% file src=".gitbook/assets/Mob_Head_Collection_List_S3.xlsx" %}
+{% file src="../.gitbook/assets/Mob_Head_Collection_List_S3.xlsx" %}
 
 List of All Mob Heads:
 
