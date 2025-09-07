@@ -10,6 +10,7 @@
 * [Custom Recipes](server-mechanics/custom-recipes.md)
 * [Waystones (warping)](server-mechanics/waystones-warping.md)
 * [Bolt Commands (Chest Locking)](server-mechanics/bolt-commands-chest-locking.md)
+* [Other Changes](server-mechanics/other-changes.md)
 * [Commands & Tips](server-mechanics/commands-and-tips.md)
 
 ## Customization
