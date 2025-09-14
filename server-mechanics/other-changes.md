@@ -29,3 +29,7 @@ Impaling enchantment has been adjusted to be more flexible for combat.
 
 * Impaling now works on all mobs, not just aquatic
 * Impaling now adds the same damage bonus like Sharpness
+
+## Other Loot Table Changes:
+
+* Jungle Leaves have been adjusted to reflect the same drop rates of saplings as other tree types
