@@ -11,10 +11,6 @@ To contribute to the wiki dm Jester Man on discord
 
 * Emotecraft&#x20;
   * How to make custom emotes?
-* Villagers
-  * Trade changes, trade books, brainrot etc
-* Music/Map tickets
-  * How to obtain, limits
 * Homes
   * /sethome
 * Graves
@@ -31,7 +27,6 @@ To contribute to the wiki dm Jester Man on discord
 * eepy command (one day)
 * /phantomisolation \[check|disable|enable]
 * Snowballs do knockback (waow)
-* Shops, discord commands for shops
 * Variable view distance/simulation distance (what does that mean for farms)
 * Shulkers respawn in the end (enderman how, chances)
 * Emotes in chat POGGIES
