@@ -11,6 +11,8 @@ Banking
 
 <mark style="color:$info;">At the bank you can convert your diamonds into glumbo or glumbo into diamonds, glumbo is what you need to buy from most player shops and admin shops. The transfer rate is 100 glumbo for one diamond.</mark>
 
+<mark style="color:$info;">-</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">For more information see the page about our custom currency</mark>_ [<mark style="color:blue;">**Glumbocoins**</mark>](server-mechanics/glumbocoins.md)
+
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Spawn Shops
