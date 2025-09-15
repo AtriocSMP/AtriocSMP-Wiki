@@ -5,7 +5,9 @@
 
 ## Server Mechanics
 
+* [Glumbocoins](server-mechanics/glumbocoins.md)
 * [Mob Heads](server-mechanics/mob-heads.md)
+* [Villager Trading](server-mechanics/villager-trading.md)
 * [Piglin Bartering](server-mechanics/piglin-bartering.md)
 * [Custom Recipes](server-mechanics/custom-recipes.md)
 * [Waystones (warping)](server-mechanics/waystones-warping.md)
