@@ -46,7 +46,7 @@ When choosing the colored option it will look at what color you chose, if you ch
 
 You can now trim more items!
 
-_<mark style="color:$danger;">**\*Disclaimer\***</mark>**&#x20;****- For Spyglass, Trident and Mace, it does not matter what template you use, they all look the same in the end.**_
+_<mark style="color:$danger;">**\*Disclaimer\***</mark>**&#x20;****- For Spyglass, Trident, Mace and Brush, it does not matter what template you use, they all look the same in the end.**_
 
 {% tabs %}
 {% tab title="Spyglass" %}
@@ -63,6 +63,10 @@ _<mark style="color:$danger;">**\*Disclaimer\***</mark>**&#x20;****- For Spyglas
 
 {% tab title="Elytra" %}
 <div><figure><img src="../.gitbook/assets/trim_elytra_crafting1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/trim_elytra1.png" alt=""><figcaption></figcaption></figure></div>
+{% endtab %}
+
+{% tab title="Brush" %}
+<div><figure><img src="../.gitbook/assets/brush_trim_red.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/brush_trim_hand.png" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 {% endtabs %}
 

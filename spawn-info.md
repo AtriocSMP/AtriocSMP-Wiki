@@ -18,8 +18,7 @@ Banking
 Spawn Shops
 
 <mark style="color:orange;">Sand & Sponge</mark> <mark style="color:$success;">(-24, 86, -53)</mark>\
-<mark style="color:$info;">This is an admin shop for sponge and sand, it never runs out. Sand is 0.50 Glumbo each and sponges are 100 Glumbo Each</mark>\
-
+<mark style="color:$info;">This is an admin shop for sponge and sand, it never runs out. Sand is 0.50 Glumbo each and sponges are 100 Glumbo Each</mark><br>
 
 <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
