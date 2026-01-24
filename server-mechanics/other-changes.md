@@ -35,10 +35,18 @@ When you punch a living shulker with a dye in hand, the dye is consumed and the 
 
 ## Enchantment Changes:
 
-Impaling enchantment has been adjusted to be more flexible for combat.
+<mark style="color:purple;">**Impaling**</mark> enchantment has been adjusted to be more flexible for combat.
 
 * Impaling now works on all mobs, not just aquatic
 * Impaling now adds the same damage bonus like Sharpness
+
+<mark style="color:purple;">**Knockback**</mark> is now able to be applied to brushes.
+
+* This can only be done by using Anvil
+
+New Enchantment called <mark style="color:purple;">**Velocity**</mark> can be applied to Harness to make Happy Ghasts Faster.
+
+<table><thead><tr><th width="148" align="center">Level</th><th width="122" align="center">blocks per second</th></tr></thead><tbody><tr><td align="center">No Enchant</td><td align="center">3.61</td></tr><tr><td align="center">Velocity I</td><td align="center">4.86</td></tr><tr><td align="center">Velocity II</td><td align="center">6.29</td></tr><tr><td align="center">Velocity III</td><td align="center">7.91</td></tr></tbody></table>
 
 ## Other Loot Table Changes:
 
