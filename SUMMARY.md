@@ -22,6 +22,10 @@
 * [Custom Paintings](customization/custom-paintings.md)
 * [Custom Horns](customization/custom-horns.md)
 
+## The Past
+
+* [April Fools](the-past/april-fools.md)
+
 ## Contribute
 
 * [Big List of Possible ToDos](contribute/big-list-of-possible-todos.md)
