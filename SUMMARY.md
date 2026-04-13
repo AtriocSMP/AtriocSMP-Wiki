@@ -21,6 +21,7 @@
 * [Custom Trims](customization/custom-trims.md)
 * [Custom Paintings](customization/custom-paintings.md)
 * [Custom Horns](customization/custom-horns.md)
+* [Page 1](customization/page-1.md)
 
 ## The Past
 
@@ -29,3 +30,7 @@
 ## Contribute
 
 * [Big List of Possible ToDos](contribute/big-list-of-possible-todos.md)
+
+***
+
+* [Discs](discs.md)

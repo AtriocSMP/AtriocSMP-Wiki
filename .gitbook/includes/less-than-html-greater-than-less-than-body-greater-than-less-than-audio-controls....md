@@ -3,6 +3,9 @@ title: <html><body><audio controls...
 ---
 
 {% if  %}
-<pre class="language-html" data-overflow="wrap"><code class="lang-html"><strong>&#x3C;html>&#x3C;body>&#x3C;audio controls>&#x3C;source src="amogusdrip.ogg" type="audio/ogg">&#x3C;/audio>&#x3C;/body>&#x3C;/html>
-</strong></code></pre>
+{% code overflow="wrap" %}
+```html
+<iframe src="https://ben.webbily.co.uk/embed/music-disc" width="420" height="620" frameborder="0" style="border:none;border-radius:8px;"></iframe>
+```
+{% endcode %}
 {% endif %}
