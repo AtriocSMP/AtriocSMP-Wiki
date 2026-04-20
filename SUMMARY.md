@@ -12,6 +12,7 @@
 * [Custom Recipes](server-mechanics/custom-recipes.md)
 * [Waystones (warping)](server-mechanics/waystones-warping.md)
 * [Bolt Commands (Chest Locking)](server-mechanics/bolt-commands-chest-locking.md)
+* [QOL Plugin Update 4/20/2026](server-mechanics/qol-plugin-update-4-20-2026.md)
 * [Other Changes](server-mechanics/other-changes.md)
 * [Commands & Tips](server-mechanics/commands-and-tips.md)
 
