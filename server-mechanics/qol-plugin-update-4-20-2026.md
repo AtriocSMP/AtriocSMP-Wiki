@@ -29,24 +29,6 @@ You can search through all shops in-game using **/shops**. Directly running that
 
 You can go extremely in depth with searches, especially when you combine flags (like -Max-Price) with predicates (like diamond-?). You can [learn more about the predicate system here.](https://blvckbytes.github.io/docs-item-predicate-parser/category/expression-syntax) Learn more about the plugin [here](https://blvckbytes.github.io/docs-quick-shop-search/).
 
-## Colorful Signs
-
-You can add color codes like &4 and \&a to signs:
-
-<figure><img src="../.gitbook/assets/javaw_41p96haMIJ.png" alt=""><figcaption></figcaption></figure>
-
-Which makes the signs colorful!
-
-<figure><img src="../.gitbook/assets/javaw_foQZI9O8dw.png" alt=""><figcaption></figcaption></figure>
-
-If you right-click with a feather, you can condense the text to add even more formatting!
-
-<figure><img src="../.gitbook/assets/javaw_J7DDkVU3t8.png" alt=""><figcaption></figcaption></figure>
-
-Each color costs dye, but once you use a dye once on a sign, you don't need that same dye again for that sign. When you break the sign, all the dyes will drop.
-
-<figure><img src="../.gitbook/assets/javaw_pDtaCBFh82.png" alt=""><figcaption></figcaption></figure>
-
 ## Lockable Plants
 
 * Can lock/unlock anything that grows with **shears**. Plants won't grow when locked
