@@ -19,7 +19,6 @@
 ## Customization
 
 * [Username Colors](customization/username-colors.md)
-* [AAA](customization/aaa.md)
 * [Custom Trims](customization/custom-trims.md)
 * [Custom Paintings](customization/custom-paintings.md)
 * [Custom Horns](customization/custom-horns.md)
